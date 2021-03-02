@@ -21,4 +21,4 @@ Here is a nice visual of what I mean:
 
 <img src = "https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png" width = "500">
 
-In this image you can see the underpinning logic to _try_ the script, _except_ for certain circumstances, _else_ take a different action, and _finally_ complete your program.
+In this image you can see the underpinning logic to _try_ the script, _except_ for certain circumstances (errors) where you'll run a different script, _else_ take a different action, and _finally_ complete your program.
