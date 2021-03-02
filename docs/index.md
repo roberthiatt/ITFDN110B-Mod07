@@ -1,4 +1,8 @@
-# Introduction
+# Module 7: Pickling and Structured Error Handling
+Developer: Robert Hiatt
+Date: 3/2/2021
+
+## Introduction
 Hello and welcome to my page where I will review Python concepts such as _pickling_ and _structured error handling_.
 
 ## What Is Pickling?
