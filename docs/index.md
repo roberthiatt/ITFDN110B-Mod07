@@ -10,4 +10,9 @@ In less technical terms, pickling is a means by which to store, serialize, and r
 
 <img src = "https://github.com/roberthiatt/ITFDN110B-Mod07/blob/main/docs/Serialize.PNG" width = "500">
 
+## Structured Error Handling
+_Structured Error Handling_ is a formal way to state that your program can obviate certain errors that would normally halt a program, and your program is able to complete its job _despite_ any potential errors.
 
+Here is a nice visual of what I mean:
+
+<img src = "https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png" width = "500">
