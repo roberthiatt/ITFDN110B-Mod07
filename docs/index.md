@@ -22,3 +22,8 @@ Here is a nice visual of what I mean:
 <img src = "https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png" width = "500">
 
 In this image you can see the underpinning logic to search for certain errors, with particular messages to the user in place should an error present itself; otherwise, you'll run the program to its completion.
+
+## Writing a Program with Pickling and Structured Error Handling
+To start my program, I have to import the _Pickle_ module.
+
+<img width="539" alt="ImportPickle" src="https://user-images.githubusercontent.com/60247240/109703552-73786b00-7b4a-11eb-9672-5d48af5b2f61.PNG">
