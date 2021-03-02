@@ -21,4 +21,4 @@ Here is a nice visual of what I mean:
 
 <img src = "https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png" width = "500">
 
-In this image you can see the underpinning logic to search for certain errors, with particular messages in place should an error present itself, otherwise, you'll run the program to its completion.
+In this image you can see the underpinning logic to search for certain errors, with particular messages to the user in place should an error present itself; otherwise, you'll run the program to its completion.
