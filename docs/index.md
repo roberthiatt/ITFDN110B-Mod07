@@ -24,6 +24,9 @@ Here is a nice visual of what I mean:
 In this image you can see the underpinning logic to search for certain errors, with particular messages to the user in place should an error present itself; otherwise, you'll run the program to its completion.
 
 ## Writing a Program with Pickling and Structured Error Handling
-To start my program, I have to import the _Pickle_ module.
-
+To start my program, I have to import the _Pickle_ module. Then I initialize my variables.
 <img width="539" alt="ImportPickle" src="https://user-images.githubusercontent.com/60247240/109703552-73786b00-7b4a-11eb-9672-5d48af5b2f61.PNG">
+
+Next, I introduce my program to the user.
+<img width="718" alt="Intro" src="https://user-images.githubusercontent.com/60247240/109703747-afabcb80-7b4a-11eb-8e6c-c2ee8cbf073d.PNG">
+
