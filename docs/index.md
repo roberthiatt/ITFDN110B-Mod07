@@ -39,7 +39,7 @@ Now let's let the user create/manage their data. We use a conditional _while_ lo
 
 <img width="631" alt="Loop1" src="https://user-images.githubusercontent.com/60247240/109704268-42e50100-7b4b-11eb-962a-9f6e000dc978.PNG">
 
-Next we'll pickle the user entries, utilizing the _dump_ pickle function to save the information to the binary file. Prior to exiting the program, we recapitulate the stored data to the user. 
+Next we'll pickle the user entries, utilizing the _dump_ pickle function to save the information to the binary file. Prior to exiting the program, we recapitulate the stored data to the user. And then the user exits the program.
 
 <img width="607" alt="Dump" src="https://user-images.githubusercontent.com/60247240/109704612-a66f2e80-7b4b-11eb-9776-be14d4a4087b.PNG">
 
