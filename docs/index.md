@@ -8,6 +8,6 @@ In [technical terms](https://www.geeksforgeeks.org/pickle-python-object-serializ
 
 In less technical terms, pickling is a means by which to store, serialize, and refer to data. The concept works similarly to a _dictionary_. Here's an [example](https://pythonbasics.org/pickle/):
 
-![](https://github.com/roberthiatt/ITFDN110B-Mod07/blob/main/docs/Serialize.PNG)
+![]<img src = "https://github.com/roberthiatt/ITFDN110B-Mod07/blob/main/docs/Serialize.PNG" width = "48">
 
 
