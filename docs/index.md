@@ -30,3 +30,9 @@ To start my program, I have to import the _Pickle_ module. Then I initialize my 
 Next, I introduce my program to the user.
 <img width="718" alt="Intro" src="https://user-images.githubusercontent.com/60247240/109703747-afabcb80-7b4a-11eb-8e6c-c2ee8cbf073d.PNG">
 
+If the user has already started a file, I want to display the file's contents. Otherwise, I tell the user to start pickling!
+<img width="578" alt="ErrorHandling_1" src="https://user-images.githubusercontent.com/60247240/109703975-f13c7680-7b4a-11eb-9ae6-3270e92807cd.PNG">
+
+Now let's let the user create/manage their data. We use a conditional _while_ loop that perpetuates unless the user enters the keyword 'leave.' 
+<img width="631" alt="Loop1" src="https://user-images.githubusercontent.com/60247240/109704268-42e50100-7b4b-11eb-962a-9f6e000dc978.PNG">
+
