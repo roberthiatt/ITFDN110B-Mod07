@@ -1,5 +1,5 @@
 # Module 7: Pickling and Structured Error Handling
-Developer: Robert Hiatt
+Developer: Robert Hiatt <br/>
 Date: 3/2/2021
 
 ## Introduction
